@@ -30,3 +30,19 @@ def multiply(a, b=2):
     return  a * 2
 print(multiply(6, 2))
 
+# Intermediate Exercises:
+#Q1 Modify multiply(a, b=2) so that it also accepts a keyword argument power=2, which raises the result to a power.
+
+def multiply(a, b=2):
+    return  (a * 2)**2
+print((multiply(4 , 2))**2)
+
+#Q2 Write a function calculate_area(length, width=10), where width has a default value.
+def calculate_area(length, width=10):
+    return length * 10
+print(calculate_area(18 , 10))
+
+# Q3 Create a function format_date(day, month, year=2024) that prints a formatted date, using 2024 as the default year.
+def format_date(day, month, year=2024):
+    return f"{day}-{month}-2024"
+print(format_date(16,11,2024))
