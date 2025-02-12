@@ -6,15 +6,17 @@
 
 ### The Python Ecosystem
 - Description: Discover Python's rich ecosystem of built-in functions and modules, plus how to download and work with packages.
-- Topics: 
-i. Learn Python Built-in fxns
+#### Topics: 
+1. Learn Python Built-in fxns
 Description: Counting Elements and Performing Calculations in Python
-ii. Modules 
+2. Modules 
 Description: What is a module, Working with string modules, importing from a module etc
-iii. Packages in Python
+3. Packages in Python
 Description: Packages vs modules, working with pandas, performing calculations in pandas
 
 ### Working with Functions
 Learn the fundamentals of functions, from Python's built-in functions to creating your own from scratch!
 - Topics
-i. Defining a Custom Function
+1. Defining a Custom Function
+- Description:Custom Fxn Syntax, Cleaning Text Data, Projects (Creating a Password Checker)
+2. Positional Vs Keyword argument:

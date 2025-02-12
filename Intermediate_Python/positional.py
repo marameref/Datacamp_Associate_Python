@@ -26,3 +26,7 @@ def greet_user(greeting, name):
 print(greet_user("Good Morning", "Mr. Omereife!"))
 
 # BQ3: Write a function multiply(a, b=2) that multiplies two numbers (default second number is 2).
+def multiply(a, b=2):
+    return  a * 2
+print(multiply(6, 2))
+
